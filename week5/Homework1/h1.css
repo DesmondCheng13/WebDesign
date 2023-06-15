@@ -1,0 +1,26 @@
+h1 {
+    font-size: 100px;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 0px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+div#content {
+    float: left;
+    width: 650px;
+    height: 400px;
+    padding-left: 50px;
+    margin-top: 130px;
+    margin-left: -15px;
+    border: 7px solid black;
+}
+
+div#image {
+    float: right;
+    margin-right: 40px;
+    margin-top: -10px;
+}

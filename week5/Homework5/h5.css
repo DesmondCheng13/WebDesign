@@ -1,0 +1,49 @@
+body {
+    text-align: -webkit-center;
+    background-color: black;
+}
+
+h1 {
+    float: left;
+    font-size: 50px;
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Lato', sans-serif;
+    padding: 0px 0px 0px 60px;
+    margin-top: 100px;
+    width: 270px;
+    color: white;
+    text-align: left;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    color: white;
+    width: 300px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 27px;
+    color: white;
+}
+
+.box {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box1 {
+    margin-top: 100px;
+    text-align: left;
+}
+
+.box2 {
+    width: 300px;
+    text-align: left;
+    border-bottom: 2px solid white;
+    padding-bottom: 40px;
+}
