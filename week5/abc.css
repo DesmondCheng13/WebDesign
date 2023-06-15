@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(46, 13, 71);
+    background-image: url("img/kuru-kuru.gif");
+    background-size: contain;
+
+}
+
+p {
+    font-size: 15px;
+}
+
+div#main1 {
+    background-image: url("img/raiden_shogun.png");
+}
+
+div#main2 {
+    background-image: url("img/eula.jpeg");
+    background-size: 400px 400px;
+    background-repeat: repeat-x;
+}
